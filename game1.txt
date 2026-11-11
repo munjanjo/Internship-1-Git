@@ -1,6 +1,6 @@
 [ivo] ima 0 pobjeda i 0 poraza!
 [mate] ima 0 pobjeda i 0 poraza!
 
-X . .
+X . O
 . O .
 . . X
