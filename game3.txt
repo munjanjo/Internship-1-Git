@@ -1,6 +1,6 @@
-[ivo] ima x pobjeda i y poraza!
-[mate] ima z pobjeda i n poraza!
+[ivo] ima 0 pobjeda i 0 poraza!
+[mate] ima 0 pobjeda i 0 poraza!
 
 X . .
-. . .
+. O .
 . . .
