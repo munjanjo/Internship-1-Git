@@ -1,5 +1,10 @@
+<<<<<<< HEAD
+[ivo] ima 0 pobjeda i 0 poraza????
+[mate] ima 0 pobjeda i 0 poraza!
+=======
 [ivo] ima 3 pobjeda i 0 poraza!!!!!!!!
 [mate] ima 0 pobjeda i 3 poraza!
+>>>>>>> origin/main
 
 X . O
 . O .
